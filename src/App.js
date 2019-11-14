@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Showing mitch
+          Sup Mitch! This page is served via AWS elasticbeanstalk and Docker.
+          With a dev pipeline going through Git and Travis CI.
         </p>
         <a
           className="App-link"
